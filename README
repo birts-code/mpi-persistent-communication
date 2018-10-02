@@ -1,0 +1,13 @@
+Dosyalar ve İçerikleri
+
+1. mpispike.c-zeki-v2 olan dosya mpi persistent communication gerçeklemesi için
+olan koddur. NEURON similatörünün kaynak kodunda mpispike.c dosyasının içeriği
+bu dosyanın içeriği ile değiştirilip simülatör kaynak koddan compile edilip
+yeni içerikle kullanılabilinir.
+
+2. adjneighwith_commworld.c neighborhood communication için performansı ölçme
+ve karşılaştırma amaçlı olan koddur. Openmpi aracılığıyla derlenip
+çalıştırılabilinir.
+
+3. Bu iki kodun da sözde kodu raporda bulunmaktadır ve içerisindeki
+fonksiyonların sözdizimi ve anlamları raporda izah edilmiştir.
